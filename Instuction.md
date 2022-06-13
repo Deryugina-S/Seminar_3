@@ -168,5 +168,3 @@ Markdown | не такой | красивый
 *git merge <branch_name>* - **Команда для слияния веток**
 
 *git branch -d <branch_name>* - **Команда для удаления веток**
-
-
